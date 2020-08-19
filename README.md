@@ -8,4 +8,4 @@ I created this because I was looking for a usable offline dictionary and could'n
 Hopefully someone finds this useful. 
 Each file by itself is about 9.5 MB.
 
-Note: The DictionaryClass_dict.py I actually used in my project as a imported class, so this file is error free and can be imported as is in Python >= 3.5.
+Note: The DictionaryClass_dict.py I actually used in my project as a imported class, so this file is error free and can be imported as is in Python >= 3.5 (in the path of your project: from DictionaryClass_dict import DictionaryWords).
