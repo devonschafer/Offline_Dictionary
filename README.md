@@ -6,6 +6,6 @@ I will be uploading this as a few different data types for Python >= 3.5, and al
 
 I created this because I was looking for a usable offline dictionary and could'nt find one that wasn't a PDF or paragraph form.
 Hopefully someone finds this useful. 
-The file by itself is about 9.5 MB.
+Each file by itself is about 9.5 MB.
 
 Note: This DictionaryClass_dict.py I actually used in my project as a imported class, so this file is error free and can be imported as is in Python >= 3.5.
